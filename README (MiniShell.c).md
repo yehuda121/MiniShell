@@ -1,4 +1,4 @@
-# MiniShell
+# MiniShell.c
 A simple command-line interpreter written in C.
 
 # MiniShell
